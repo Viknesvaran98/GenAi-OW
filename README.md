@@ -1,6 +1,6 @@
 📌 GenAi CLI Tool
 
-A simple Java-based command-line assistant that can respond to basic prompts and open folders or system settings directly from terminal commands.
+A Java-based command-line assistant that can respond to basic prompts and open folders or system settings directly from terminal commands.
 
 🚀 Features
 Interactive command-line interface
